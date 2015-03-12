@@ -4,7 +4,11 @@
 	<link rel="stylesheet" type="text/css" href="test.css">
 </head>
 <body>
+<<<<<<< HEAD
 	<h1>LALALALALALALALALA</h1>
+=======
+	<h1>HAHAHAHAHAHA</h1>
+>>>>>>> ab-6l_dalupan
 	<img src="image.jpg"/>
 	<p>Louise-Marie S. Dalupan, 2012-11293, AB-6L</p>
 </body>
